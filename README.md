@@ -8,10 +8,10 @@ Designed as a **customer experience & hospitality analytics project**, it demons
 ---
 
 ## 👀 Dashboard Preview  
-![Tripadvisor Dashboard](<img width="384" height="218" alt="Capture d&#39;écran 2026-01-08 193343" src="https://github.com/user-attachments/assets/60f4143d-3fb2-4c4d-91cb-533631a427bf" /> ) 
+<img width="384" height="218" alt="Capture d&#39;écran 2026-01-08 193343" src="https://github.com/user-attachments/assets/444e0313-7a0a-4d6e-918e-52ede3573539" />
 
 
-*(Screenshot captured January 7, 2026)*
+*(Screenshot captured January 8, 2026)*
 
 ---
 
